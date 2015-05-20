@@ -21,7 +21,6 @@ Objective: Understand input and output in c++.
 ( 2 ) Write a program that prints block letter B in 7x6 grid as follows.
 
 ```c
-
 *****
 *        *
 *        *
