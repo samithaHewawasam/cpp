@@ -50,6 +50,9 @@ ____		______
 
 (4) Write a program that print average and total of 3 numbers given by the user.
 
+* [compile](http://cpp.sh/7z3j)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/printTotalAndAvg.cpp)
+
 (5) Write a program that prints the sum, difference, product, quotient and remainder of two integers that are input interactively.
 
 (6) Write a program to convert temperature from Fahrenheit degrees to Celsius degrees. 
