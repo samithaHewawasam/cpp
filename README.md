@@ -9,10 +9,14 @@ Objective: Understand input and output in c++.
 
 1. Write a program that prints following song in console window.
 
+```c
+
     Twinkle, twinkle, little star,
      How I wonder what you are.
      Up above the world so high,
      Like a diamond in the sky.
+
+```
      
 2. Write a program that prints block letter B in 7x6 grid as follows.
 
@@ -30,11 +34,15 @@ Objective: Understand input and output in c++.
 
 3. Write a program to print following table using a single “cout” statement.
 
+```c
+
 Year		Income
 ____		______
 2001		7580.00
 2002		4785.50
 2003		9871.00
+
+```
 
 4. Write a program that print average and total of 3 numbers given by the user.
 
