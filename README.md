@@ -136,3 +136,14 @@ Hint: -
 25mm = 1inch
 12 inch=1feet
 ```
+
+* [compile](http://cpp.sh/5sef)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/mmToFeet.cpp)
+
+```c++
+
+Enter mm ?
+200
+Feet: 0.666667
+
+```
