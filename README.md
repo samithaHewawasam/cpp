@@ -193,6 +193,21 @@ Enter an integer ?
 
 4. /
 
+* [Try it your Self](http://cpp.sh/7ngo)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/calculator.cpp)
+
+```c++
+
+Enter an number ?
+20
+Enter an number ?
+30
+Enter an option?
+/
+0.666667
+
+```
+
 You should print an appropriate error message if the user enters invalid data.
 Use nested if-else statements in your program.
 
