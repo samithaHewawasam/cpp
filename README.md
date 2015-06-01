@@ -147,3 +147,47 @@ Enter mm ?
 Feet: 0.666667
 
 ```
+
+
+______________________________________________________________________________________________________________
+
+
+
+## Structured Programming
+### Lab Sheet 04
+
+
+( 10 ) Write a program to input 2 integers and find the smaller number.
+( 11 ) Write c++ program to input an integer and tell whether the number is odd or even.
+( 12 ) Write a program to create a simple calculator. The program should allow the user to enter two numbers and an option. The options are
+1. +
+2. –
+3. *
+4. /
+You should print an appropriate error message if the user enters invalid data.
+Use nested if-else statements in your program.
+
+( 13 ) Write a program to get the Number as a key board input and check whether this number is greater than 100. if number is greater than 100 print “Number is greater than 100” otherwise print “Number is less than or equal 100”.
+
+( 14 ) Write a program that reads the user’s age and then prints “you are a child” if the age <18 , “you are an adult” if 18<=age<<<65, and you are a senior citizen if age>=65.
+
+15. Write a program that will help the driver of a truck that delivers and picks up compressed-gas cylinders to determine the contents of the cylinder based on the color of the cylinder. The program will print out a menu of colors to be entered. The user should then be instructed to enter the first letter of the color of the tank. Upon reading the letter corresponding to the color of the tank the program will print a message, which states the contents of the tank. The program should accept the letter in either upper or lower case. Cylinder colors associated contents are as follows.
+
+Orange			ammonia
+Brown			carbon monoxide
+Yellow			hydrogen
+Green			oxygen
+
+The program should be written using simple if statements. These if statements can have compound conditions. (Conditions which have logical operators). Have the program print a message prior to ending such as “Glad to be of service”. If the user enters a color other than one of the four colors specified in the program, then print only the ending message.
+
+Note:- use a char type variable for the input.
+( 16 ) Write an appropriate control structure that will examine the value of a following point variable called temp and print one of the following messages, depending on the value assigned to temp.
+(a) ICE, if the value of temp is less than 0.
+(b) WATER, if the value of temp lies between 0 and 100,
+(c) STEAM, if the value of temp exceeds 100.
+
+( 17 ) Write a program that reads a grade A, B, C, D or F and then print “Excellent”, “Good”, “Fair”, “Poor”, and “Fail”.
+
+( 18 ) Write a program to sort the three integers a, b and c in ascending order. The number will be given from the keyboard
+
+( 19 ) Create a program that test whether a given integer is zero or positive or negative.
