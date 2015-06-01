@@ -101,8 +101,8 @@ Celsius : 21.1111
 (7) Write a program to input amount that a customer purchases a certain good, and the tax rate (in percentage) of the good, and calculate the total amount that the customer should pay for this good, and print the sales tax rate and the total amount customer paid.
 Hint: sales tax = amount of purchased x tax rate.
 
-* [compile](http://cpp.sh/36bq)
-* [source](https://github.com/samithaHewawasam/cpp/blob/master/fahrenheitToCelsius.cpp)
+* [compile](http://cpp.sh/8nmcx)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/taxRate.cpp)
 
 ```c++
 
