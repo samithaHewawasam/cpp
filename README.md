@@ -217,7 +217,7 @@ Use nested if-else statements in your program.
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/gt100.cpp)
 
 ```c++
-nter the number ?
+Enter the number ?
 12
 You entered number is less than 100
 ```
