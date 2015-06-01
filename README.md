@@ -18,8 +18,8 @@ Objective: Understand input and output in c++.
 
 ```
 
+* [Try it your Self](http://cpp.sh/6f7b)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/twinkle.cpp)
-* [compile](http://cpp.sh/6f7b)
 
    
 (2) Write a program that prints block letter B in 7x6 grid as follows.
@@ -50,7 +50,7 @@ ____		______
 
 (4) Write a program that print average and total of 3 numbers given by the user.
 
-* [compile](http://cpp.sh/7z3j)
+* [Try it your Self](http://cpp.sh/7z3j)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/printTotalAndAvg.cpp)
 
 ```c++
@@ -68,7 +68,7 @@ Average: 20
 
 (5) Write a program that prints the sum, difference, product, quotient and remainder of two integers that are input interactively.
 
-* [compile](http://cpp.sh/7jph)
+* [Try it your Self](http://cpp.sh/7jph)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/sdpqr.cpp)
 
 ```c++
@@ -87,7 +87,7 @@ The QUOTIENT is : 2
 Use the equation `C = 5/9*(F-32)`, Where C is Celsius and F is Fahrenheit.
 
 
-* [compile](http://cpp.sh/36bq)
+* [Try it your Self](http://cpp.sh/36bq)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/fahrenheitToCelsius.cpp)
 
 ```c++
@@ -101,7 +101,7 @@ Celsius : 21.1111
 (7) Write a program to input amount that a customer purchases a certain good, and the tax rate (in percentage) of the good, and calculate the total amount that the customer should pay for this good, and print the sales tax rate and the total amount customer paid.
 Hint: sales tax = amount of purchased x tax rate.
 
-* [compile](http://cpp.sh/8nmcx)
+* [Try it your Self](http://cpp.sh/8nmcx)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/taxRate.cpp)
 
 ```c++
@@ -117,7 +117,7 @@ The TAX is: 30
 
 (8) Salesperson at a certain company gets an 8% commission on their sales. Write a program to input the amount that a person sold and output both the salesperson’s commission and the amount the company receives after the salesperson’s commission has been deducted.
 
-* [compile](http://cpp.sh/9x2t)
+* [Try it your Self](http://cpp.sh/9x2t)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/commission.cpp)
 
 ```c++
@@ -137,7 +137,7 @@ Hint: -
 12 inch=1feet
 ```
 
-* [compile](http://cpp.sh/5sef)
+* [Try it your Self](http://cpp.sh/5sef)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/mmToFeet.cpp)
 
 ```c++
