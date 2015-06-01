@@ -157,6 +157,19 @@ ________________________________________________________________________________
 
 ( 10 ) Write a program to input 2 integers and find the smaller number.
 
+* [Try it your Self](http://cpp.sh/374g)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/findSmaller.cpp)
+
+```c++
+
+Enter 1st varible ?
+20
+Enter 2nd varible ?
+19
+Smallest number is: 19
+
+```
+
 ( 11 ) Write c++ program to input an integer and tell whether the number is odd or even.
 
 ( 12 ) Write a program to create a simple calculator. The program should allow the user to enter two numbers and an option. The options are
