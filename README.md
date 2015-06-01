@@ -156,12 +156,19 @@ ________________________________________________________________________________
 
 
 ( 10 ) Write a program to input 2 integers and find the smaller number.
+
 ( 11 ) Write c++ program to input an integer and tell whether the number is odd or even.
+
 ( 12 ) Write a program to create a simple calculator. The program should allow the user to enter two numbers and an option. The options are
+
 1. +
+
 2. –
+
 3. *
+
 4. /
+
 You should print an appropriate error message if the user enters invalid data.
 Use nested if-else statements in your program.
 
