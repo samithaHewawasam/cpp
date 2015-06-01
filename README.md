@@ -86,6 +86,18 @@ The QUOTIENT is : 2
 (6) Write a program to convert temperature from Fahrenheit degrees to Celsius degrees.
 Use the equation `C = 5/9*(F-32)`, Where C is Celsius and F is Fahrenheit.
 
+
+* [compile](http://cpp.sh/36bq)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/fahrenheitToCelsius.cpp)
+
+```c++
+
+Enter Fahrenheit temperature ?
+70
+Celsius : 21.1111
+
+```
+
 (7) Write a program to input amount that a customer purchases a certain good, and the tax rate (in percentage) of the good, and calculate the total amount that the customer should pay for this good, and print the sales tax rate and the total amount customer paid.
 Hint: sales tax = amount of purchased x tax rate.
 
