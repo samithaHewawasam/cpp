@@ -23,22 +23,22 @@ void main(){
   cout<<"Enter 2nd varible ? \n";
   cin>>b;
 
-  //Assume that a is bigger than b
+  //Assume that a is smaller than b
 
-  if(a > b){
+  if(a < b){
 
-    // So when a is bigger than b,  a > b condition return true so this block will execute
+    // So when a is smaller than b,  a < b condition return true so this block will execute
     //lets output a
 
-    cout<<"Largest number is: "<<a;
+    cout<<"Smallest number is: "<<a;
 
 
   }else{
 
-    // So when b is bigger than a,  a > b condition return false so this block will execute
+    // So when b is smaller than a,  a < b condition return false so this block will execute
     //lets output b
 
-    cout<<"Largest number is: "<<b; 
+    cout<<"Smallest number is: "<<b;
 
   }
 
