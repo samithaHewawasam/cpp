@@ -117,6 +117,18 @@ The TAX is: 30
 
 (8) Salesperson at a certain company gets an 8% commission on their sales. Write a program to input the amount that a person sold and output both the salesperson’s commission and the amount the company receives after the salesperson’s commission has been deducted.
 
+* [compile](http://cpp.sh/9x2t)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/commission.cpp)
+
+```c++
+
+Enter the amount ?
+2500
+Salesperson's commission is: 200
+Company receives amount is: 2300
+
+```
+
 (9) Write a program to converts mm to feet
 
 ```c++
