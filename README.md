@@ -188,9 +188,13 @@ Green			oxygen
 The program should be written using simple if statements. These if statements can have compound conditions. (Conditions which have logical operators). Have the program print a message prior to ending such as “Glad to be of service”. If the user enters a color other than one of the four colors specified in the program, then print only the ending message.
 
 Note:- use a char type variable for the input.
+
 ( 16 ) Write an appropriate control structure that will examine the value of a following point variable called temp and print one of the following messages, depending on the value assigned to temp.
+
 (a) ICE, if the value of temp is less than 0.
+
 (b) WATER, if the value of temp lies between 0 and 100,
+
 (c) STEAM, if the value of temp exceeds 100.
 
 ( 17 ) Write a program that reads a grade A, B, C, D or F and then print “Excellent”, “Good”, “Fair”, “Poor”, and “Fail”.
