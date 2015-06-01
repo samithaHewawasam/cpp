@@ -12,7 +12,7 @@
 
 void main(){
 
-  //Lets get an integer barible
+  //Lets get an integer varible
   int x, m;
 
   //Ask user to enter an integer
