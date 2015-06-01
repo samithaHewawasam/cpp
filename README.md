@@ -172,6 +172,17 @@ Smallest number is: 19
 
 ( 11 ) Write c++ program to input an integer and tell whether the number is odd or even.
 
+* [Try it your Self](http://cpp.sh/36so)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/oddEven.cpp)
+
+```c++
+
+Enter an integer ?
+3
+3 is ODD
+
+```
+
 ( 12 ) Write a program to create a simple calculator. The program should allow the user to enter two numbers and an option. The options are
 
 1. +
