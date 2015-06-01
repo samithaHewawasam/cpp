@@ -53,6 +53,19 @@ ____		______
 * [compile](http://cpp.sh/7z3j)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/printTotalAndAvg.cpp)
 
+```c++
+
+Enter 1st number ?
+20
+Enter 2nd number ?
+30
+Enter 3rd number ?
+10
+Total: 60
+Average: 20
+
+```
+
 (5) Write a program that prints the sum, difference, product, quotient and remainder of two integers that are input interactively.
 
 * [compile](http://cpp.sh/7jph)
