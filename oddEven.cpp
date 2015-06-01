@@ -19,9 +19,9 @@ void main(){
   cout<<"Enter an integer ?\n";
   cin>>x;
 
-  //An integer to be odd it's moduler should be 1 after devide it from 2
+  //An integer to be odd it's modular should be 1 after devide it from 2
 
-  //Lets find moduler
+  //Lets find modular
   m=x%2;
 
   if(m == 1){
