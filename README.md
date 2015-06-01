@@ -124,7 +124,7 @@ The TAX is: 30
 
 Enter the amount ?
 2500
-Salesperson's commission is: 200
+Salesperson commission is: 200
 Company receives amount is: 2300
 
 ```
