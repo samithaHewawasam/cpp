@@ -213,6 +213,15 @@ Use nested if-else statements in your program.
 
 ( 13 ) Write a program to get the Number as a key board input and check whether this number is greater than 100. if number is greater than 100 print “Number is greater than 100” otherwise print “Number is less than or equal 100”.
 
+* [Try it your Self](http://cpp.sh/3i7g)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/gt100.cpp)
+
+```c++
+nter the number ?
+12
+You entered number is less than 100
+```
+
 ( 14 ) Write a program that reads the user’s age and then prints “you are a child” if the age <18 , “you are an adult” if 18<=age<<<65, and you are a senior citizen if age>=65.
 
 ( 15 ) Write a program that will help the driver of a truck that delivers and picks up compressed-gas cylinders to determine the contents of the cylinder based on the color of the cylinder. The program will print out a menu of colors to be entered. The user should then be instructed to enter the first letter of the color of the tank. Upon reading the letter corresponding to the color of the tank the program will print a message, which states the contents of the tank. The program should accept the letter in either upper or lower case. Cylinder colors associated contents are as follows.
