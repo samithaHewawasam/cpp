@@ -12,19 +12,19 @@
 
 // Convert temperature from Fahrenheit degrees to Celsius degrees
 
-void main(){
+void main() {
 
-  // We get float variables because temperature may contains fractional part
-  float F,C;
+    // We get float variables because temperature may contains fractional part
+    float F,C;
 
-  // Ask from users to enter Fahrenheit (F)
-  cout<<"Enter Fahrenheit temperature ? \n";
-  cin>>F;
+    // Ask from users to enter Fahrenheit (F)
+    cout<<"Enter Fahrenheit temperature ? \n";
+    cin>>F;
 
-  //Convert Fahrenheit into Celsius via bellow equation
-  C = (F-32)*5/9;
+    //Convert Fahrenheit into Celsius via bellow equation
+    C = (F-32)*5/9;
 
-  // Now print output
-  cout<<"Celsius : "<<C;
+    // Now print output
+    cout<<"Celsius : "<<C;
 
 }
