@@ -224,6 +224,17 @@ You entered number is less than 100
 
 ( 14 ) Write a program that reads the user’s age and then prints “you are a child” if the age <18 , “you are an adult” if 18<=age<<<65, and you are a senior citizen if age>=65.
 
+* [Try it your Self](http://cpp.sh/8cps)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/age.cpp)
+
+```c++
+
+Please enter your age?
+26
+you are an adult
+
+```
+
 ( 15 ) Write a program that will help the driver of a truck that delivers and picks up compressed-gas cylinders to determine the contents of the cylinder based on the color of the cylinder. The program will print out a menu of colors to be entered. The user should then be instructed to enter the first letter of the color of the tank. Upon reading the letter corresponding to the color of the tank the program will print a message, which states the contents of the tank. The program should accept the letter in either upper or lower case. Cylinder colors associated contents are as follows.
 
 ```
