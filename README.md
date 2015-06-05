@@ -250,8 +250,9 @@ Green			oxygen
 ```c++
 
 Please enter your first letter of color either UPERCASE || lowercase  ?
-Y
-The contents of the cylinder is hydrogen
+o
+The contents of the cylinder is ammonia
+Glad to be of service 
 
 ```
 
