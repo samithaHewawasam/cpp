@@ -322,3 +322,73 @@ Please enter an integer ?
 -3
 GIven number is Negative
 ```
+
+##Lab Sheet 05
+
+( 20 ) You are to write a program that calculates the end-of-year bonus an employee receives. The bonus is based on the employee’s annual salary and their performance rating according to the following scale
+
+```c++
+Rating		Bonus
+1		     10% of salary
+2		     5% of salary
+3		     2.5% of salary
+4		     none
+```
+
+Sample screen layout:
+
+```c++
+
+Enter employee name:	Dingaling Bell
+Enter employee salary:	50000
+Enter performance rating:	1
+```
+
+(Your output should then be (using currency formatting):
+
+```c++
+
+Employee name:	Dingaling Bell
+Employee salary:	$50,000.00
+Employee rating:	1
+Employee bonus:	$5,000.00
+Salary and bonus:	$55,000.00
+```
+
+Prompt the user to enter the annual total of sales made by a salesperson.
+Use a nested if else statement to determine the bonus according to the table below
+If sales < 50000 no bonus
+If sales are greater than or equal 50000 but less then 100000 bonus = 10% of sales
+If sales are greater than or equal to 100000 then bonus = 20% of sales.
+Display sales and bonus.
+
+( 21 ) Write  program given a 5 digit amount in rupees prints the number of   1000/=,500/=,200/=,100/=,50/=,20/=,10/=,5/=,2/=,1/= notes and coins needed
+Eg:- Amount=2754.00
+Your program should print as follows
+
+```c++
+
+1000-Notes-2
+500 Notes-1
+200 Notes-2
+100 Notes-0
+50 Notes-1
+20Notes-0
+10 Notes-0
+5Notes-0
+2Notes-2
+1Notes-0
+
+```
+```
+Hint:-
+1000 Rupee notes=2754/1000=2
+Remaining Amount =2754%1000=754
+You need to use suitable variables.
+```
+
+( 23 ) Write a program that takes an integer keyed in from the terminal and extracts and
+displays each digit of the integer in English. So, if the user types in 932, the program
+should display :
+nine three two
+Remember to display “zero” if the user types in just a 0.
