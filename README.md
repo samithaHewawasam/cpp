@@ -244,6 +244,17 @@ Yellow			hydrogen
 Green			oxygen
 ```
 
+* [Try it your Self](http://cpp.sh/2esk)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/colorOfTheCylinder.cpp)
+
+```c++
+
+Please enter your first letter of color either UPERCASE || lowercase  ?
+Y
+The contents of the cylinder is hydrogen
+
+```
+
 The program should be written using simple if statements. These if statements can have compound conditions. (Conditions which have logical operators). Have the program print a message prior to ending such as “Glad to be of service”. If the user enters a color other than one of the four colors specified in the program, then print only the ending message.
 
 Note:- use a char type variable for the input.
