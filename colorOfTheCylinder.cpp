@@ -9,13 +9,11 @@
 */
 
 #include <iostream>
-#include <string>
 
-
-int main() {
+void main() {
 
     //lets get a char for user input charachter
-    string color;
+    char color;
 
     //Ask from user to enter it
     cout<<"Please enter your first letter of color either UPERCASE || lowercase  ?\n";
