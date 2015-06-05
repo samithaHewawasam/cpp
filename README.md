@@ -252,7 +252,7 @@ Green			oxygen
 Please enter your first letter of color either UPERCASE || lowercase  ?
 o
 The contents of the cylinder is ammonia
-Glad to be of service 
+Glad to be of service
 
 ```
 
@@ -267,6 +267,16 @@ Note:- use a char type variable for the input.
 (b) WATER, if the value of temp lies between 0 and 100,
 
 (c) STEAM, if the value of temp exceeds 100.
+
+* [Try it your Self](http://cpp.sh/4m4t)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/temp.cpp)
+
+```c++
+Please enter value of temperature
+-35
+ICE
+
+```
 
 ( 17 ) Write a program that reads a grade A, B, C, D or F and then print “Excellent”, “Good”, “Fair”, “Poor”, and “Fail”.
 
