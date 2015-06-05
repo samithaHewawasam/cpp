@@ -315,7 +315,7 @@ Ascending Order is bellow
 ( 19 ) Create a program that test whether a given integer is zero or positive or negative.
 
 * [Try it your Self](http://cpp.sh/64gjz)
-* [source](https://github.com/samithaHewawasam/cpp/blob/master/zeroPositiveNegative)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/zeroPositiveNegative.cpp)
 
 ```c++
 Please enter an integer ?
@@ -356,16 +356,20 @@ Employee salary:	$50,000.00
 Employee rating:	1
 Employee bonus:	$5,000.00
 Salary and bonus:	$55,000.00
-```
 
-Prompt the user to enter the annual total of sales made by a salesperson.
+```
+* [Try it your Self](http://cpp.sh/2n25)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/rattings.cpp)
+
+
+( 21 ) Prompt the user to enter the annual total of sales made by a salesperson.
 Use a nested if else statement to determine the bonus according to the table below
 If sales < 50000 no bonus
 If sales are greater than or equal 50000 but less then 100000 bonus = 10% of sales
 If sales are greater than or equal to 100000 then bonus = 20% of sales.
 Display sales and bonus.
 
-( 21 ) Write  program given a 5 digit amount in rupees prints the number of   1000/=,500/=,200/=,100/=,50/=,20/=,10/=,5/=,2/=,1/= notes and coins needed
+( 22 ) Write  program given a 5 digit amount in rupees prints the number of   1000/=,500/=,200/=,100/=,50/=,20/=,10/=,5/=,2/=,1/= notes and coins needed
 Eg:- Amount=2754.00
 Your program should print as follows
 
