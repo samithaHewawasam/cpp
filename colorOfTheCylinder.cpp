@@ -21,14 +21,19 @@ int main() {
     cout<<"Please enter your first letter of color either UPERCASE || lowercase  ?\n";
     cin>>color;
 
-    if(color == "O")
+    if(color == "O" || color == "o")
         cout<<"The contents of the cylinder is ammonia";
-    else if(color == "B")
+    else if(color == "B" || color == "b")
         cout<<"The contents of the cylinder is carbon monoxide";
-    else if(color == "Y")
+    else if(color == "Y" || color == "y")
         cout<<"The contents of the cylinder is hydrogen";
-    else if(color == "G")
+    else if(color == "G" || color == "g")
         cout<<"The contents of the cylinder is oxygen";
+    else
+      cout<<"Glad to be of service";
+      
+    //Let's print ending message
+    cout<<"Glad to be of service";
 
 
 }
