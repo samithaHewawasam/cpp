@@ -313,3 +313,12 @@ Ascending Order is bellow
 ```
 
 ( 19 ) Create a program that test whether a given integer is zero or positive or negative.
+
+* [Try it your Self](http://cpp.sh/64gjz)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/zeroPositiveNegative)
+
+```c++
+Please enter an integer ?
+-3
+GIven number is Negative
+```
