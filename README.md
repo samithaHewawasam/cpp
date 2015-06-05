@@ -280,6 +280,17 @@ ICE
 
 ( 17 ) Write a program that reads a grade A, B, C, D or F and then print “Excellent”, “Good”, “Fair”, “Poor”, and “Fail”.
 
+* [Try it your Self](http://cpp.sh/7f6uo)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/findGrade.cpp)
+
+```c++
+
+Enter your Grade [ A, B, C, D, F ] ?
+D
+Poor
+
+```
+
 ( 18 ) Write a program to sort the three integers a, b and c in ascending order. The number will be given from the keyboard
 
 ( 19 ) Create a program that test whether a given integer is zero or positive or negative.
