@@ -9,13 +9,11 @@
 */
 
 #include <iostream>
-#include <string>
 
-
-int main() {
+void main() {
 
     //lets get a char for user input charachter
-    string color;
+    char color;
 
     //Ask from user to enter it
     cout<<"Please enter your first letter of color either UPERCASE || lowercase  ?\n";
@@ -31,7 +29,7 @@ int main() {
         cout<<"The contents of the cylinder is oxygen";
     else
       cout<<"Glad to be of service";
-      
+
     //Let's print ending message
     cout<<"Glad to be of service";
 
