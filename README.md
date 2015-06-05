@@ -293,4 +293,23 @@ Poor
 
 ( 18 ) Write a program to sort the three integers a, b and c in ascending order. The number will be given from the keyboard
 
+* [Try it your Self](http://cpp.sh/62gq)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/findGrade.cpp)
+
+```c++
+
+Enter your 1st number?
+423
+Enter your 2nd number?
+87
+Enter your 3rd number?
+1578
+
+Ascending Order is bellow
+87
+423
+1578
+
+```
+
 ( 19 ) Create a program that test whether a given integer is zero or positive or negative.
