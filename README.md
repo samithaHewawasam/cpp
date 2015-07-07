@@ -432,3 +432,12 @@ displays each digit of the integer in English. So, if the user types in 932, the
 should display :
 nine three two
 Remember to display “zero” if the user types in just a 0.
+
+```c++
+Enter a number?
+453
+Four Five Three
+
+```
+* [Try it your Self](http://cpp.sh/4jfh)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/numberWord.cpp)
