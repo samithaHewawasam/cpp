@@ -369,6 +369,18 @@ If sales are greater than or equal 50000 but less then 100000 bonus = 10% of sal
 If sales are greater than or equal to 100000 then bonus = 20% of sales.
 Display sales and bonus.
 
+
+```c++
+
+Enter sales amount?
+70000
+Total Sales: 77000
+
+```
+
+* [Try it your Self](http://cpp.sh/37ctd)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/bonus.cpp)
+
 ( 22 ) Write  program given a 5 digit amount in rupees prints the number of   1000/=,500/=,200/=,100/=,50/=,20/=,10/=,5/=,2/=,1/= notes and coins needed
 Eg:- Amount=2754.00
 Your program should print as follows
@@ -393,6 +405,27 @@ Hint:-
 Remaining Amount =2754%1000=754
 You need to use suitable variables.
 ```
+
+
+```c++
+
+Enter an amount?
+2873
+1000-Notes:2
+500 Notes:1
+200 Notes:1
+100 Notes:1
+50 Notes:1
+20Notes:1
+10 Notes:0
+5Notes:0
+2Notes:1
+1Notes:1
+
+```
+* [Try it your Self](http://cpp.sh/2by6)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/digit.cpp)
+
 
 ( 23 ) Write a program that takes an integer keyed in from the terminal and extracts and
 displays each digit of the integer in English. So, if the user types in 932, the program
