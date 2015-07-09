@@ -527,6 +527,7 @@ number	square	cube
 
 * [Try it your Self](http://cpp.sh/6wto)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/factorials.cpp)
+<<<<<<< HEAD
 
 ( 29 ) Write a program to find the average length of words in a sentence. Words are separated by a space. The sentence is terminated by a dot ( . )
 
@@ -586,3 +587,5 @@ You have entered 6 numbers
 
 * [Try it your Self](http://cpp.sh/4puc)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/starPatten.cpp)
+=======
+>>>>>>> 7ce92b345d64cddabb1673e4c3d3a032409a7191
