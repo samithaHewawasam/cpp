@@ -587,5 +587,3 @@ You have entered 6 numbers
 
 * [Try it your Self](http://cpp.sh/4puc)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/starPatten.cpp)
-=======
->>>>>>> 7ce92b345d64cddabb1673e4c3d3a032409a7191
