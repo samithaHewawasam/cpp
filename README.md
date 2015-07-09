@@ -441,3 +441,148 @@ Four Five Three
 ```
 * [Try it your Self](http://cpp.sh/4jfh)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/numberWord.cpp)
+
+##Lab Sheet 06
+
+
+( 24 ) Write a program that inputs five numbers and determines and prints the number of negative numbers input, the number of positive numbers input and the number of zeros input.
+
+```c++
+Enter a number?
+5
+Enter a number?
+-2
+Enter a number?
+0
+Enter a number?
+6
+Enter a number?
+-2
+Positive Numbers Count: 2
+Negative Numbers Count: 2
+Zero Numbers Count: 1
+
+```
+
+* [Try it your Self](http://cpp.sh/3566z)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/numberdetermines.cpp)
+
+( 25 )  write an application that calculates the squares and cubes of the numbers from 0 to 10 and prints the resulting values in table format as follows:
+
+```c++
+number	square	cube
+    0	    0	      0
+    1	    1	      1
+    2	    4	      8
+    3	    9	      27
+    4	    16	    64
+    5	    25	    125
+    6	    36	    216
+    7	    49	    343
+    8	    64	    512
+    9	    81	    729
+    10	  100	    1000
+
+```
+
+* [Try it your Self](http://cpp.sh/6yxi)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/squaresAndCubes.cpp)
+
+( 26 ) Write an application that keeps displaying in the command window the multiples of the integer 2, namely 2, 4, 8, 16, 32, 64, etc up to 10000.
+
+```c++
+2
+4
+8
+16
+32
+64
+128
+256
+512
+1024
+2048
+4096
+8192
+
+```
+
+* [Try it your Self](http://cpp.sh/5lzg)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/multiples.cpp)
+
+( 27 ) Write an application that reads three nonzero values entered by the and determines and prints if they could represent the sides of a triangle.
+
+( 28 ) Write a program to print the first 7 positive integers and their factorials. (The factorial of 1 is 1, the factorial of 2 is 1 * 2 = 2, the factorial of 3 is 1 * 2 * 3 = 6, the factorial of 4 is 1 * 2 * 3 * 4 = 24, etc.)
+
+```c++
+1
+2
+6
+24
+120
+720
+5040
+
+```
+
+* [Try it your Self](http://cpp.sh/6wto)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/factorials.cpp)
+
+( 29 ) Write a program to find the average length of words in a sentence. Words are separated by a space. The sentence is terminated by a dot ( . )
+
+
+( 30 ) Write a program to enter 10 numbers (maximum 10) but you should be able to stop if you enter a value less than 1. At the end you should be able to display whether you have entered 10 numbers or not.
+
+```c++
+Enter a number
+2
+Enter a number
+6
+Enter a number
+7
+Enter a number
+5
+Enter a number
+1
+Enter a number
+0
+You have entered 6 numbers
+```
+
+* [Try it your Self](http://cpp.sh/2qos)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/enterAValueLess.cpp)
+
+( 31 ) Write a C/C++ program to produce the following series.
+
+
+```c++
+1
+4
+9
+16
+25
+36
+49
+64
+81
+100
+```
+
+* [Try it your Self](http://cpp.sh/6n4eg)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/followingSeries149.cpp)
+
+( 32 ) Write a program to generate following pattern. (Use nested loops)
+
+
+```c++
+*
+**
+***
+****
+*****
+******
+
+```
+
+* [Try it your Self](http://cpp.sh/4puc)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/starPatten.cpp)
