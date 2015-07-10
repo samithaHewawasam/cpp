@@ -660,3 +660,20 @@ The total value is: 45
 
 * [Try it your Self](http://cpp.sh/45xg)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/SumOfTheDigits.cpp)
+
+( 37 ) Write a program which prints starts * according to the user given integer. The pattern of the stars should be like follow.
+
+```c++
+
+Enter an integer?
+5
+*****
+****
+***
+**
+*
+
+```
+
+* [Try it your Self](http://cpp.sh/4exw)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/SumOfTheDigits.cpp)
