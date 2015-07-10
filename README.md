@@ -630,3 +630,19 @@ Number	Triangular
 
 * [Try it your Self](http://cpp.sh/7fng)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/triangular.cpp)
+
+( 35 ) The factorial of an integer n, written n!, is the product of the consecutive integers 1 to n. For example, 5 factorial is calculated as :
+
+5! = 5 x 4 x 3 x 2 x 1 = 120
+
+Write a program to generate and print factorial for a user given integer.
+
+```c++
+Enter an integer?
+5
+Factorial Number: 120
+
+```
+
+* [Try it your Self](http://cpp.sh/9756)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/factorialNumber.cpp)
