@@ -587,3 +587,22 @@ You have entered 6 numbers
 
 * [Try it your Self](http://cpp.sh/4puc)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/starPatten.cpp)
+
+
+##Lab Sheet 07
+
+( 46 ) Write a program which will reverse the Digits of a Number.
+First the program will prompt the user for an Integer Number. Then the program will display the given integer number in the reverse order. The output of the program should be similar to the following.
+
+Enter an integer number:12345
+54321
+
+```c++
+Enter a number?
+987654321
+123456789
+
+```
+
+* [Try it your Self](http://cpp.sh/8e3d)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/reverseOrder.cpp)
