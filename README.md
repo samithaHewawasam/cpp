@@ -677,3 +677,21 @@ Enter an integer?
 
 * [Try it your Self](http://cpp.sh/4exw)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/SumOfTheDigits.cpp)
+
+( 38 ) Implement a program in order to obtain the following output. It should workout for any user given integer.
+
+```c++
+Enter an integer?
+7
+1
+21
+321
+4321
+54321
+654321
+7654321
+
+```
+
+* [Try it your Self](http://cpp.sh/86wfh)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/output654321.cpp)
