@@ -646,3 +646,17 @@ Factorial Number: 120
 
 * [Try it your Self](http://cpp.sh/9756)
 * [source](https://github.com/samithaHewawasam/cpp/blob/master/factorialNumber.cpp)
+
+( 36 ) Write a program that calculates the sum of the digits of an integer. For example, the sum of the digits of the number 2155 is 2 + 1 + 5 + 5 or 13.The program should accept any arbitrary integer typed in by the user.(hint: use for loop)
+
+```c++
+
+Enter a number?
+123456789
+The total value is: 45
+
+```
+
+
+* [Try it your Self](http://cpp.sh/45xg)
+* [source](https://github.com/samithaHewawasam/cpp/blob/master/SumOfTheDigits.cpp)

@@ -11,19 +11,18 @@
 #include <iostream>
 
 void main() {
-int number=1,factorial,intiger;
+int intiger,factorial=1;
 
-cout<<"Enter an integer?\n"
-cin<<intiger;
+cout<<"Enter an integer?\n";
+cin>>intiger;
 
-    for(int i = 1; i <= intiger; i--) {
+    for(int i = intiger; i > 0; i--) {
 
-        number*=i;
-        factorial=number;
-
+        factorial*=i;
 
     }
 
-    cout<<"The factorial Number is: "<<factorial;
+    cout<<"Factorial Number: "<<factorial;
+
 
 }
